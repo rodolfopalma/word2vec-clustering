@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "word2vec",
+        "tensorShape": [
+          19459,
+          100
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/rpalmaotero/word2vec-clustering/master/vectors.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/rpalmaotero/word2vec-clustering/master/vectors_metadata.tsv"
+      }
+    ]
+  }
